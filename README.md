@@ -1,0 +1,2 @@
+# webapi_core_using_azure_tablestorage
+webapi_core_using_azure_tablestorage
