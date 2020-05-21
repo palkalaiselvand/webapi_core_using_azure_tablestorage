@@ -1,0 +1,8 @@
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\bin\Debug\netstandard2.0\models_and_validators.deps.json
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\bin\Debug\netstandard2.0\models_and_validators.dll
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\bin\Debug\netstandard2.0\models_and_validators.pdb
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\obj\Debug\netstandard2.0\models_and_validators.AssemblyInfoInputs.cache
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\obj\Debug\netstandard2.0\models_and_validators.AssemblyInfo.cs
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\obj\Debug\netstandard2.0\models_and_validators.csproj.CoreCompileInputs.cache
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\obj\Debug\netstandard2.0\models_and_validators.dll
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\models_and_validators\obj\Debug\netstandard2.0\models_and_validators.pdb

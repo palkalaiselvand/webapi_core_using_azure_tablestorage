@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OI6GxcS0l8xYCruAXBmkxTMCWupHOHf0Zog40gNShOBu3h03xdOGmQ6TT9V1hQGeag9wZPHCJdRSHKpKO5/h8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pdhamotharan\\source\\repos\\webapi_core_using_azure_tablestorage\\models_and_validators\\models_and_validators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pdhamotharan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pdhamotharan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pdhamotharan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pdhamotharan\\.nuget\\packages\\windowsazure.storage\\9.3.3\\windowsazure.storage.9.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
