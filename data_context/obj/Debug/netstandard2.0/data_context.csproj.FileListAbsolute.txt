@@ -1,0 +1,12 @@
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\bin\Debug\netstandard2.0\models_and_validators.dll
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.csprojAssemblyReference.cache
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.AssemblyInfoInputs.cache
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.AssemblyInfo.cs
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\bin\Debug\netstandard2.0\data_context.deps.json
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\bin\Debug\netstandard2.0\data_context.dll
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\bin\Debug\netstandard2.0\data_context.pdb
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\bin\Debug\netstandard2.0\models_and_validators.pdb
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.csproj.CopyComplete
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.dll
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.pdb
+C:\Users\pdhamotharan\source\repos\webapi_core_using_azure_tablestorage\data_context\obj\Debug\netstandard2.0\data_context.csproj.CoreCompileInputs.cache
